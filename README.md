@@ -1,2 +1,2 @@
-# Unity Python Engine Extension
+# Unity Python.NET Engine Extension
  
